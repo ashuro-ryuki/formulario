@@ -4,12 +4,11 @@
     padding: 20px;
     margin: -400px 0 0 -240px;
     position: absolute;
-    top: 70%;
+    top: 80%;
     left: 50%;
     border:100px;
     border-radius: 20px;
     justify-content: center; 
-
     
     }
 #loginpt2{
@@ -17,7 +16,7 @@
     padding: 20px;
     margin: -400px 0 0 -240px;
     position: absolute;
-    top: 70%;
+    top: 80%;
     left: 70%;
     border:100px;
     border-radius: 20px;
@@ -59,4 +58,13 @@
                     background-image: linear-gradient(to right, rgb(0, 30, 128), rgba(234, 0, 255, 0.855));
                   
                    
+                }
+                h1{
+                    text-align: center;
+                }
+
+                button{
+                    background-color: rgb(219, 221, 223);
+                    border-radius: 20px;
+                    border: 10px;
                 }
